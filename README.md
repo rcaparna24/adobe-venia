@@ -15,9 +15,9 @@ No additional setup is required. Simply open products.html in your browser to vi
 # Project Structure
 The project is organized into three main files:
 
--- products.html: Contains the structure and content of the website.
--- styles.css: Contains the styling rules for the website.
--- script.js: Contains the JavaScript functionality for dynamic behavior.
+1. products.html: Contains the structure and content of the website.
+2. styles.css: Contains the styling rules for the website.
+3. script.js: Contains the JavaScript functionality for dynamic behavior.
 
 1.HTML (products.html)
 This file includes the core structure of the Venia website:
