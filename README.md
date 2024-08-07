@@ -4,14 +4,14 @@ A modern web browser (e.g., Chrome, Firefox, Safari)
 
 # Instructions
 Clone the Repository:
-git clone <repository-url>
+git clone <repository-url> and then 
 cd adobe-venia
 
 # Open the Project:
-Open index.html in your preferred web browser.
+Open products.html in your preferred web browser.
 
 # Running Locally
-No additional setup is required. Simply open index.html in your browser to view the website.
+No additional setup is required. Simply open products.html in your browser to view the website.
 # Project Structure
 The project is organized into three main files:
 
